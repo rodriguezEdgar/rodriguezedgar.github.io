@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "A simple portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "[Your Name]",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
